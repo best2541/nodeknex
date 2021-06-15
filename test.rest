@@ -1,0 +1,7 @@
+get http://localhost:3000/where
+
+###
+get http://localhost:3000/
+
+###
+DELETE  http://localhost:3000/delete/8
